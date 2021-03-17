@@ -1,0 +1,33 @@
+{
+    "name": "Gone_Fishing",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "controller": "*",
+        "feather": "*",
+        "sevenseg": "*",
+        "radio": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.13.20",
+        "tag": "v0.13.20",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/1a2e086f594271988687472fae15533c0b662ced",
+        "target": "1.3.49",
+        "pxt": "5.19.9",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
